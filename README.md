@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Question Answer Generator
 
 A powerful web application that automatically generates questions from uploaded documents (PDF and Word files). The system creates different types of questions including Multiple Choice Questions (MCQ), Short Answer Questions, and Long Answer Questions based on the document content.
@@ -145,3 +146,6 @@ The application can be configured by modifying the following parameters in `app.
 ## License
 
 This project is open source and available under the MIT License.
+=======
+# qa_generator
+>>>>>>> origin/main
